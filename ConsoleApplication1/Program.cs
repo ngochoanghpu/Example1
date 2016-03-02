@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Time at 9:29 am");
+            Console.WriteLine("Time at 9:35 am");
         }
     }
 }
